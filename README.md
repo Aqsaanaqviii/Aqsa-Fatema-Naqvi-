@@ -10,9 +10,9 @@
 
 - 🎓 Third Year BSc Computer Science (TYCS) student at Somaiya Vidyavihar University
 - 💻 I enjoy building small projects to practice what I learn
-- 🌱 Currently exploring: <!-- e.g. Data Structures & Algorithms, Web Development, Python -->
-- 📫 Reach me at: <!-- your email -->
-- 🔗 Connect with me: <!-- LinkedIn / portfolio link -->
+- 🌱 Currently exploring: Software Engineering, Web Development (HTML, CSS), and SQL
+- 📫 Reach me at: aqsafatema.na@gmail.com
+- 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/aqsa-fatema-naqvi-b9677435b)
 
 ---
 
@@ -20,12 +20,13 @@
 
 <!-- Keep only what you know, delete the rest, or add more badges from https://simpleicons.org -->
 
-**Languages**
+**Languages & Web**
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Tools & Platforms**
 
