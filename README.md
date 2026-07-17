@@ -37,16 +37,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<!-- Replace with your own repos. Format: **[Project Name](link)** — one-line description -->
-
-- **[Project One](#)** — Short description of what it does and what you used to build it.
-- **[Project Two](#)** — Short description of what it does and what you used to build it.
-- **[Project Three](#)** — Short description of what it does and what you used to build it.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
